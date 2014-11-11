@@ -15,3 +15,5 @@ My stupid boss still prefers SVN
 hellow github
 
 branch test
+
+Creating a new branch is quick & simple.
